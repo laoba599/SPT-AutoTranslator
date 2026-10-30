@@ -1,0 +1,7 @@
+{
+  "quest1 name": "First Steps",
+  "quest1 description": "Bring {0} bottles of water to the trader.",
+  "quest1 successMessageText": "Well done! Check <b>this</b> out at https://example.com/guide.",
+  "quest1 startedMessageText": "",
+  "quest1 acceptPlayerMessage": "你好，already Chinese mixed?"
+}
