@@ -1,0 +1,23 @@
+{
+  "bp_01": {
+    "id": "bp_01",
+    "locales": {
+      "en": {
+        "name": "Traveler Backpack",
+        "description": "A sturdy backpack for long raids."
+      },
+      "ch": {
+        "name": "旅行者背包"
+      }
+    }
+  },
+  "bp_02": {
+    "id": "bp_02",
+    "locales": {
+      "en": {
+        "name": "Scout Pack",
+        "description": "Light and quiet."
+      }
+    }
+  }
+}
